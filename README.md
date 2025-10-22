@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Varun Ramagiri
 
 🎓 Graduate Student @ Montclair State University  
-💻 Full-Stack Developer • iOS Developer • Data Analyst  
+💻 Back-End Developer • iOS Developer • Data Analyst  
 🌱 Passionate about building real-world applications that combine code, creativity, and impact.
 
 ---
