@@ -4,12 +4,23 @@ Graduate student @ Montclair State University • Back-End & Mobile Developer �
 ### 🔧 Tech I use
 `Python` `SQL` `.NET` `Flask` `SwiftUI` `Kotlin` `Unity (C#)` `Power BI`
 
-### 🚀 Featured projects
-- **Event Hub for Students** — Flask + SQL platform for campus events.
-- **JumpQuest** — 2D platformer in Unity (C#).
-- **WeatherApp (iOS)** — SwiftUI app consuming weather API.
-- **User Login/Signup** — Auth flows and validation patterns.
-- **ZodiacApp** — Fun SwiftUI app showcasing UI/State patterns.
+### 🚀 Featured Projects
+
+- 🎯 **[Event Hub for Students](https://github.com/varunramagiri/Event-Hub-For-Students)**  
+  Flask + SQL web app for campus events — students can create, browse, and RSVP to events.
+
+- 🎮 **[JumpQuest](https://github.com/varunramagiri/Jump-Quest)**  
+  2D platformer game built in Unity (C#), inspired by Super Mario Bros, featuring coins, physics, and obstacles.
+
+- 🌦️ **[WeatherApp (iOS)](https://github.com/varunramagiri/WeatherApp)**  
+  A clean, real-time weather app built with SwiftUI, fetching live data from a weather API.
+
+- 🔐 **[AuthFlow-SwiftUI](https://github.com/varunramagiri/AuthFlow-SwiftUI)**  
+  Simple SwiftUI app demonstrating login, signup, and validation using local storage variables.
+
+- ✨ **[ZodiacApp](https://github.com/varunramagiri/ZodiacApp)**  
+  A fun SwiftUI project showing zodiac traits and daily horoscopes using clean navigation and state management.
+
 
 ### 📈 What I'm exploring
 - Production-grade ETL with Python/SQL
