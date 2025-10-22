@@ -1,8 +1,15 @@
-# 👋 Hi, I'm Varun Ramagiri
-Graduate student @ Montclair State University • Back-End & Mobile Developer • Data/ETL
+# 👋 Hi, I’m Varun Ramagiri
 
-### 🔧 Tech I use
-`Python` `SQL` `.NET` `Flask` `SwiftUI` `Kotlin` `Unity (C#)` `Power BI`
+🎓 Graduate Student @ Montclair State University  
+💻 Full-Stack Developer • iOS Developer • Data Analyst  
+🌱 Passionate about building real-world applications that combine code, creativity, and impact.
+
+---
+
+### 🧰 Tech Stack
+`Python` `SQL` `Flask` `SwiftUI` `.NET` `Power BI` `Unity (C#)` `HTML/CSS` `Bootstrap` `Machine Learning`
+
+---
 
 ### 🚀 Featured Projects
 
@@ -21,11 +28,15 @@ Graduate student @ Montclair State University • Back-End & Mobile Developer �
 - ✨ **[ZodiacApp](https://github.com/varunramagiri/ZodiacApp)**  
   A fun SwiftUI project showing zodiac traits and daily horoscopes using clean navigation and state management.
 
+---
 
-### 📈 What I'm exploring
-- Production-grade ETL with Python/SQL
-- iOS architecture (MVVM) & Android Jetpack Compose
-- Deploying Flask apps on Render/Fly.io
+### 📊 Other Projects
+- 🌱 [GlobalGreen](https://github.com/varunramagiri/Renewable-Energy-Resource-Center) — Renewable energy awareness and analytics platform.  
+- 🩺 [Disease Prediction System](https://github.com/varunramagiri/Disease-Prediction-System) — ML-based disease prediction web app.  
+- 🔎 [OCR Text Recognition](https://github.com/varunramagiri/OCR-Text-Recognition-System) — Extracts multilingual text from scanned documents.  
+- 💼 [Tax Tracker System](https://github.com/varunramagiri/Tax-Tracker-System) — Python + SQL system for tax tracking and analytics.
 
-### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/varun-ramagiri) • [Email](mailto:ramagiriv1@montclair.edu)
+---
+
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/varun-ramagiri) • [GitHub](https://github.com/varunramagiri) • ✉️ ramagiriv1@montclair.edu
